@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun signIn(email: String, password: String) {
-        auth.createUserWithEmailAndPassword(email, password)
+        auth.signInWithEmailAndPassword(email, password)
             .addOnCompleteListener(this) { task ->
                 if (task.isSuccessful) {
                     val intent = Intent(this, MainActivity2::class.java)
