@@ -42,7 +42,7 @@ class Signup : AppCompatActivity() {
                     val intent = Intent(this, MainActivity2::class.java)
                     startActivity(intent)
                 } else {
-                    Toast.makeText(this, "User does not exist", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, "An error occured", Toast.LENGTH_SHORT).show()
                 }
             }
     }

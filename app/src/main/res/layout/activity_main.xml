@@ -21,7 +21,7 @@
         android:layout_below="@+id/icon"
         android:layout_marginTop="48dp"
         android:paddingLeft="10dp"
-        android:textSize="25dp"/>
+        android:textSize="15dp"/>
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -33,7 +33,7 @@
         android:layout_below="@id/et_email"
         android:layout_marginTop="10dp"
         android:paddingLeft="10dp"
-        android:textSize="25dp"/>
+        android:textSize="15dp"/>
 
     <Button
         android:id="@+id/btnLogin"
