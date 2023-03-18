@@ -19,7 +19,7 @@ class Signup : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup)
-
+        supportActionBar?.hide()
         etPassword = findViewById(R.id.et_password)
         etEmail = findViewById(R.id.et_email)
         etName = findViewById(R.id.et_name)
