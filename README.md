@@ -1,2 +1,2 @@
-# Login
-Simple Login test using email and password using firebase authenticator and kotlin
+# Chat app
+Simple chat app using email and password using firebase authenticator and kotlin
