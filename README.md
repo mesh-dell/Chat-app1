@@ -6,4 +6,5 @@ Simple chat app using email and password using firebase authenticator and kotlin
 <br>
 <br>
 <br>
+<br>
 <img src="https://user-images.githubusercontent.com/126293004/226455559-e748c146-26c5-4f0d-8b4b-45b9849a35cd.jpg" height=40% width=40%>
